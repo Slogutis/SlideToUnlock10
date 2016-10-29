@@ -1,4 +1,6 @@
 # SlideToUnlock10
 re-enable slidetounlock on ios10 
 
-rquired flexible on simulator 
+required flexible on simulator 
+
+https://github.com/Flipboard/FLEX
